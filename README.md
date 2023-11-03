@@ -1,4 +1,4 @@
-![alt text](https://github.com/Connectslide121/Spotify-clone/blob/master/Connect_banner_github.png)
+![alt text](https://github.com/Connectslide121/Spotify-clone/blob/main/Connect_banner_github.png)
 
 # Spotify-clone
 
